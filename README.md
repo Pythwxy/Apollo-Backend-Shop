@@ -2,55 +2,55 @@
     "//": "BR Item Shop Config",
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_397_Athena_Commando_F_TreasureHunterFashion"
+            "AthenaCharacter:CID_039_Athena_Commando_F_Disco"
         ],
         "price": 0
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_398_Athena_Commando_M_TreasureHunterFashion"
+            "AthenaCharacter:CID_255_Athena_Commando_F_HalloweenBunny"
         ],
         "price": 0
     },
     "featured3": {
         "itemGrants": [
-            "AthenaCharacter:CID_401_Athena_Commando_M_Miner"
+            "AthenaPickaxe:CID_254_Athena_Commando_M_Zombie"
         ],
         "price": 0
     },
     "daily1": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
+            "AthenaPickaxe:Pickaxe_ID_013_Teslacoil"
         ],
         "price": 0
     },
     "daily2": {
         "itemGrants": [
-            "AthenaBackpack:BID_373_HauntLensFlare"
+            "AthenaBackpack:BID_004_BlackKnight"
         ],
         "price": 0
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_HiFive"
+            "AthenaDance:EID_Fresh"
         ],
         "price": 0
     },
     "daily4": {
         "itemGrants": [
-            "AthenaCharacter:CID_387_Athena_Commando_F_Golf"
+            "AthenaItemWrap:Wrap_065_AssassinSuit01"
         ],
         "price": 0
     },
     "daily5": {
         "itemGrants": [
-            "AthenaDance:EID_Jaywalking"
+            "AthenaDance:EID_Flapper"
         ],
         "price": 0
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_190_GolfClub"
+            "AthenaPickaxe:HalloweenScythe"
         ],
         "price": 0
     }
