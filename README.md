@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_269_Athena_Commando_M_Wizard","AthenaBackpack:BID_149_Wizard"
+            "AthenaCharacter:CID_497_Athena_Commando_F_WildWest","AthenaBackpack:BID_329_WildWestFemale"
         ],
-        "price": 1500
+        "price": 1200
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_270_Athena_Commando_F_Witch","AthenaBackpack:BID_150_Witch"
+            "AthenaCharacter:CID_498_Athena_Commando_M_WildWest","AthenaBackpack:BID_328_WildWest"
         ],
-        "price": 1500
+        "price": 1200
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_122_Witch"
+            "AthenaPickaxe:Pickaxe_ID_114_BadassCowboyCowSkull"
         ],
         "price": 800
     },
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_271_Athena_Commando_F_SushiChef"
+            "AthenaCharacter:CID_531_Athena_Commando_M_Sleepytime"
         ],
-        "price": 1500
+        "price": 800
     },
     "daily2": {
         "itemGrants": [
-            "AthenaGlider:Glider_Stealth"
+            "AthenaPickaxe:Pickaxe_ID_179_StarWand"
         ],
-        "price": 600
+        "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaMusicPack:MusicPack_006_Twist"
+            "AthenaDance:EID_CrazyDance"
         ],
-        "price": 300
+        "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_012_DragonMask"
+            "AthenaItemWrap:Wrap_077_StormSoldier"
         ],
-        "price": 600
+        "price": 400
     },
     "daily5": {
         "itemGrants": [
-            "AthenaDance:EID_Mime"
+            "AthenaDance:EID_HipToBeSquare"
         ],
         "price": 500
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
+            "AthenaGlider:Umbrella_Snowflake"
         ],
-        "price": 800
+        "price": 300
     }
 }
