@@ -2,55 +2,55 @@
     "//": "BR Item Shop Config",
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_497_Athena_Commando_F_WildWest","AthenaBackpack:BID_329_WildWestFemale"
+            "AthenaCharacter:CID_391_Athena_Commando_M_HoppityHeist","AthenaBackpack:BID_253_HoppityHeist"
         ],
         "price": 1200
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_498_Athena_Commando_M_WildWest","AthenaBackpack:BID_328_WildWest"
+            "AthenaCharacter:CID_392_Athena_Commando_F_BountyBunny","AthenaPickaxe:Pickaxe_ID_198_BountyBunny"
         ],
         "price": 1200
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_114_BadassCowboyCowSkull"
+            "AthenaPickaxe:Pickaxe_ID_197_HoppityHeist"
         ],
         "price": 800
     },
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_531_Athena_Commando_M_Sleepytime"
+            "AthenaCharacter:CID_535_Athena_Commando_M_Traveler"
         ],
         "price": 800
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_179_StarWand"
+            "AthenaPickaxe:Pickaxe_ID_275_Traveler"
         ],
         "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_CrazyDance"
+            "AthenaDance:EID_RageQuit"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_077_StormSoldier"
+            "AthenaItemWrap:Wrap_047_Bunny"
         ],
-        "price": 400
+        "price": 300
     },
     "daily5": {
         "itemGrants": [
-            "AthenaDance:EID_HipToBeSquare"
+            "AthenaDance:EID_SpeedRun"
         ],
         "price": 500
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Umbrella_Snowflake"
+            "AthenaGlider:Glider_FlowerPOwer"
         ],
         "price": 300
     }
