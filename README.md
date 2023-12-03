@@ -2,55 +2,55 @@
     "//": "BR Item Shop Config",
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_473_Athena_Commando_M_CyberKarate","AthenaBackpack:BID_309_CyberKarateMale"
+            "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread","AthenaBackpack:BID_187_GingerbreadFemale"
         ],
         "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_472_Athena_Commando_F_CyberKarate","AthenaBackpack:BID_308_CyberKarateFemale"
+            "AthenaCharacter:CID_049_Athena_Commando_M_HolidayGingerbread","AthenaBackpack:BID_186_GingerbreadMale"
         ],
-        "price": 1200
+        "price": 1500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_234_CyberKarate"
+            "AthenaCharacter:CID_050_Athena_Commando_M_HolidayNutcracker"
         ],
-        "price": 800
+        "price": 1800
     },
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_493_Athena_Commando_F_JurassicArchaeology"
+            "AthenaGlider:Umbrella_Snowflake"
         ],
-        "price": 800
+        "price": 500
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_014_WinterCamo"
+            "AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"
         ],
-        "price": 600
+        "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_FingerGunsV2"
+            "AthenaDance:EID_KissKiss"
         ],
-        "price": 200
+        "price": 300
     },
     "daily4": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_058_Storm"
+            "AthenaItemWrap:Wrap_007_CandyCane"
         ],
         "price": 400
     },
     "daily5": {
         "itemGrants": [
-            "AthenaDance:EID_JazzDance"
+            "AthenaDance:EID_HiLowWave"
         ],
-        "price": 300
+        "price": 500
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_067_PSBurnout"
+            "AthenaPickaxe:SkiIcePickaxe"
         ],
         "price": 500
     }
