@@ -2,55 +2,55 @@
     "//": "BR Item Shop Config",
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread","AthenaBackpack:BID_187_GingerbreadFemale"
+            "AthenaCharacter:CID_046_Athena_Commando_F_HolidaySweater"
         ],
-        "price": 1500
+        "price": 800
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_049_Athena_Commando_M_HolidayGingerbread","AthenaBackpack:BID_186_GingerbreadMale"
+            "AthenaCharacter:CID_045_Athena_Commando_M_HolidaySweater"
         ],
-        "price": 1500
+        "price": 800
     },
     "featured3": {
         "itemGrants": [
-            "AthenaCharacter:CID_050_Athena_Commando_M_HolidayNutcracker"
+            "AthenaPickaxe:Pickaxe_ID_022_HolidayGiftWrap"
         ],
-        "price": 1800
+        "price": 800
     },
     "daily1": {
         "itemGrants": [
-            "AthenaGlider:Umbrella_Snowflake"
+            "AthenaGlider:Glider_ID_009_CandyCoat"
         ],
         "price": 500
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"
+            "AthenaCharacter:CID_061_Athena_Commando_F_SkiGirl"
         ],
-        "price": 800
+        "price": 1200
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_KissKiss"
+            "AthenaDance:EID_Bendy"
         ],
         "price": 300
     },
     "daily4": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_007_CandyCane"
+            "AthenaItemWrap:Wrap_011_HotCold"
         ],
         "price": 400
     },
     "daily5": {
         "itemGrants": [
-            "AthenaDance:EID_HiLowWave"
+            "AthenaDance:EID_WalkieWalk"
         ],
-        "price": 500
+        "price": 300
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:SkiIcePickaxe"
+            "AthenaPickaxe:Pickaxe_ID_145_IceMaiden"
         ],
         "price": 500
     }
