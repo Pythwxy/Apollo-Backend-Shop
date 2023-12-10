@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_046_Athena_Commando_F_HolidaySweater"
+            "AthenaCharacter:CID_652_Athena_Commando_F_HolidayPJ_D","AthenaCharacter:CID_651_Athena_Commando_F_HolidayPJ_C"
         ],
-        "price": 800
+        "price": 1200
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_045_Athena_Commando_M_HolidaySweater"
+            "AthenaCharacter:CID_650_Athena_Commando_F_HolidayPJ_B","AthenaCharacter:CID_649_Athena_Commando_F_HolidayPJ"
         ],
-        "price": 800
+        "price": 1200
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_022_HolidayGiftWrap"
+            "AthenaPickaxe:Pickaxe_ID_190_GolfClub"
         ],
         "price": 800
     },
     "daily1": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_009_CandyCoat"
+            "AthenaGlider:Umbrella_AssassinSuit"
         ],
-        "price": 500
+        "price": 200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_061_Athena_Commando_F_SkiGirl"
+            "AthenaCharacter:CID_098_Athena_Commando_F_StPatty"
         ],
-        "price": 1200
+        "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_Bendy"
+            "AthenaDance:EID_Laugh"
         ],
         "price": 300
     },
     "daily4": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_011_HotCold"
+            "AthenaItemWrap:Wrap_179_HolidayPJs"
         ],
         "price": 400
     },
     "daily5": {
         "itemGrants": [
-            "AthenaDance:EID_WalkieWalk"
+            "AthenaDance:EID_ElectroShuffle"
         ],
-        "price": 300
+        "price": 600
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_145_IceMaiden"
+            "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
         ],
-        "price": 500
+        "price": 800
     }
 }
