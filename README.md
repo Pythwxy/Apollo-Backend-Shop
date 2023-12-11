@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_652_Athena_Commando_F_HolidayPJ_D","AthenaCharacter:CID_651_Athena_Commando_F_HolidayPJ_C"
+            "AthenaCharacter:CID_473_Athena_Commando_M_CyberKarate","AthenaBackpack:BID_309_CyberKarateMale"
         ],
-        "price": 1200
+        "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_650_Athena_Commando_F_HolidayPJ_B","AthenaCharacter:CID_649_Athena_Commando_F_HolidayPJ"
+            "AthenaCharacter:CID_472_Athena_Commando_F_CyberKarate","AthenaBackpack:BID_308_CyberKarateFemale"
         ],
         "price": 1200
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_190_GolfClub"
+            "AthenaPickaxe:Pickaxe_ID_234_CyberKarate"
         ],
         "price": 800
     },
     "daily1": {
         "itemGrants": [
-            "AthenaGlider:Umbrella_AssassinSuit"
-        ],
-        "price": 200
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaCharacter:CID_098_Athena_Commando_F_StPatty"
+            "AthenaCharacter:CID_493_Athena_Commando_F_JurassicArchaeology"
         ],
         "price": 800
     },
+    "daily2": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_014_WinterCamo"
+        ],
+        "price": 600
+    },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_Laugh"
+            "AthenaDance:EID_FingerGunsV2"
         ],
-        "price": 300
+        "price": 200
     },
     "daily4": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_179_HolidayPJs"
+            "AthenaItemWrap:Wrap_058_Storm"
         ],
         "price": 400
     },
     "daily5": {
         "itemGrants": [
-            "AthenaDance:EID_ElectroShuffle"
+            "AthenaDance:EID_JazzDance"
         ],
-        "price": 600
+        "price": 300
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
+            "AthenaGlider:Glider_ID_067_PSBurnout"
         ],
-        "price": 800
+        "price": 500
     }
 }
