@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_473_Athena_Commando_M_CyberKarate","AthenaBackpack:BID_309_CyberKarateMale"
+            "AthenaCharacter:CID_329_Athena_Commando_F_SnowNinja","AthenaBackpack:BID_200_SnowNinjaFemale","AthenaGlider:Glider_ID_115_SnowNinja"
         ],
-        "price": 1500
+        "price": 1800
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_472_Athena_Commando_F_CyberKarate","AthenaBackpack:BID_308_CyberKarateFemale"
+            "AthenaCharacter:CID_299_Athena_Commando_M_SnowNinja","AthenaBackpack:BID_181_SnowNinjaMale"
         ],
-        "price": 1200
+        "price": 1500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_234_CyberKarate"
+            "AthenaPickaxe:Pickaxe_ID_135_SnowNinja"
         ],
-        "price": 800
+        "price": 1200
     },
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_493_Athena_Commando_F_JurassicArchaeology"
+            "AthenaCharacter:CID_397_Athena_Commando_F_TreasureHunterFashion"
         ],
         "price": 800
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_014_WinterCamo"
+            "AthenaPickaxe:HappyPickaxe"
         ],
-        "price": 600
+        "price": 500
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_FingerGunsV2"
+            "AthenaDance:EID_DarkFireLegends"
         ],
-        "price": 200
+        "price": 300
     },
     "daily4": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_058_Storm"
+            "AthenaItemWrap:Wrap_012_DragonMask"
         ],
         "price": 400
     },
     "daily5": {
         "itemGrants": [
-            "AthenaDance:EID_JazzDance"
+            "AthenaDance:EID_RageQuit"
         ],
-        "price": 300
+        "price": 200
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_067_PSBurnout"
+            "AthenaGlider:Umbrella_PaperParasol"
         ],
-        "price": 500
+        "price": 300
     }
 }
