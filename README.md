@@ -2,56 +2,56 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_188_Athena_Commando_F_StreetRacerWhite","AthenaBackpack:BID_089_StreetRacerWhiteFemale"
+      "AthenaCharacter:CID_050_Athena_Commando_M_HolidayNutcracker","AthenaBackpack:BID_182_NutcrackerMale"
     ],
-    "price": 1500
+    "price": 1800
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_190_Athena_Commando_M_StreetRacerWhite","AthenaBackpack:BID_090_StreetRacerWhiteMale"
+      "AthenaCharacter:CID_302_Athena_Commando_F_Nutcracker","AthenaBackpack:BID_183_NutcrackerFemale"
     ],
     "price": 1500
   },
   "featured3": {
     "itemGrants": [
-      "AthenaGlider:Glider_ID_062_StreetRacerWhite"
+      "AthenaPickaxe:Pickaxe_ID_137_NutCracker"
     ],
     "price": 800
   },
   "daily1": {
     "itemGrants": [
-      "AthenaCharacter:CID_395_Athena_Commando_F_ShatterFly","AthenaBackpack:BID_256_ShatterFly"
+      "AthenaCharacter:CID_651_Athena_Commando_F_HolidayPJ_C"
     ],
-    "price": 1200
+    "price": 800
   },
   "daily2": {
     "itemGrants": [
-      "AthenaPickaxe:HalloweenScythe"
+      "AthenaPickaxe:Pickaxe_ID_294_CandyCane"
     ],
-    "price": 1000
+    "price": 1200
   },
   "daily3": {
     "itemGrants": [
-      "AthenaDance:EID_BurgerFlipping"
+      "AthenaDance:EID_Breakdance2"
     ],
     "price": 600
   },
   "daily4": {
     "itemGrants": [
-      "AthenaCharacter:CID_044_Athena_Commando_F_SciPop"
+      "AthenaCharacter:CID_062_Athena_Commando_F_SkiGirl_USA","AthenaBackpack:BID_015_SkiGirl_USA"
     ],
-    "price": 1200
+    "price": 1500
   },
   "daily5": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_179_StarWand"
+      "AthenaPickaxe:Pickaxe_ID_332_MintMiner"
     ],
-    "price": 1000
+    "price": 800
   },
   "daily6": {
     "itemGrants": [
-      "AthenaItemWrap:Wrap_018_Magma"
+      "AthenaItemWrap:Wrap_006_Ice"
     ],
-    "price": 600
+    "price": 300
   }
 }
