@@ -26,7 +26,7 @@
   },
   "daily2": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_294_CandyCane"
+      "AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"
     ],
     "price": 1200
   },
