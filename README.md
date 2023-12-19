@@ -46,7 +46,7 @@
     "itemGrants": [
       "AthenaPickaxe:Pickaxe_ID_140_StreetGoth"
     ],
-    "price": 800
+    "price": 1000
   },
   "daily6": {
     "itemGrants": [
