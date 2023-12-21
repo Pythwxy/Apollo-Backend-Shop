@@ -2,55 +2,55 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_226_Athena_Commando_F_Octoberfest","AthenaBackpack:BID_118_OctoberfestFemale"
+      "AthenaCharacter:CID_240_Athena_Commando_F_Plague","AthenaBackpack:BID_128_PlagueFemale"
     ],
     "price": 1500
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_225_Athena_Commando_M_Octoberfest","AthenaBackpack:BID_117_OctoberfestMale"
+      "AthenaCharacter:CID_241_Athena_Commando_M_Plague","AthenaBackpack:BID_127_PlagueMale"
     ],
     "price": 1500
   },
   "featured3": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_101_Octoberfest"
+      "AthenaPickaxe:Pickaxe_ID_107_Plague"
     ],
-    "price": 500
+    "price": 800
   },
   "daily1": {
     "itemGrants": [
-      "AthenaCharacter:CID_197_Athena_Commando_F_Biker", "AthenaBackpack:BID_097_BikerFemale"
+      "AthenaCharacter:CID_315_Athena_Commando_M_TeriyakiFish","AthenaBackpack:BID_193_TeriyakiFishMale"
     ],
     "price": 1200
   },
   "daily2": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
+      "AthenaPickaxe:Pickaxe_ID_019_Heart"
     ],
-    "price": 1000
+    "price": 800
   },
   "daily3": {
     "itemGrants": [
-      "AthenaDance:EID_BreakDance"
+      "AthenaDance:EID_Basketball"
     ],
-    "price": 600
+    "price": 300
   },
   "daily4": {
     "itemGrants": [
-      "AthenaCharacter:CID_043_Athena_Commando_F_Stealth"
+      "AthenaCharacter:CID_106_Athena_Commando_F_Taxi"
     ],
-    "price": 1500
+    "price": 800
   },
   "daily5": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_Deathvalley"
+      "AthenaPickaxe:Pickaxe_ID_197_HoppityHeist"
     ],
-    "price": 1200
+    "price": 500
   },
   "daily6": {
     "itemGrants": [
-      "AthenaDance:EID_Celebration"
+      "AthenaDance:EID_SlowClap"
     ],
     "price": 200
   }
