@@ -14,7 +14,7 @@
   },
   "featured3": {
     "itemGrants": [
-      "AthenaPickaxePickaxe_ID_200_MoonlightAssassin"
+      "AthenaPickaxe:Pickaxe_ID_200_MoonlightAssassin"
     ],
     "price": 1200
   },
