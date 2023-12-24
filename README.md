@@ -2,55 +2,55 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_576_Athena_Commando_M_CODSquadPlaid","AthenaBackpack:BID_376_CODSquad_Plaid"
+      "AthenaCharacter:CID_394_Athena_Commando_M_MoonlightAssassin","AthenaBackpack:BID_255_MoonlightAssassin"
     ],
-    "price": 1200
+    "price": 1500
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_577_Athena_Commando_F_CODSquadPlaid","AthenaBackpack:BID_377_CODSquad_Plaid_Female"
+      "AthenaCharacter:CID_395_Athena_Commando_F_ShatterFly","AthenaBackpack:BID_256_ShatterFly"
     ],
     "price": 1200
   },
   "featured3": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_283_CODSquadPlaidMale","AthenaPickaxe:Pickaxe_ID_282_CODSquadPlaidFemale"
-    ],
-    "price": 800
-  },
-  "daily1": {
-    "itemGrants": [
-      "AthenaCharacter:CID_493_Athena_Commando_F_JurassicArchaeology"
-    ],
-    "price": 800
-  },
-  "daily2": {
-    "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_031_Squeak"
+      "AthenaPickaxePickaxe_ID_200_MoonlightAssassin"
     ],
     "price": 1200
   },
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_420_Athena_Commando_F_WhiteTiger","AthenaBackpack:BID_277_WhiteTiger"
+    ],
+    "price": 1200
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_092_Bling"
+    ],
+    "price": 800
+  },
   "daily3": {
     "itemGrants": [
-      "AthenaDance:EID_Bunnyhop"
+      "AthenaDance:EID_ElectroShuffle"
     ],
-    "price": 300
+    "price": 600
   },
   "daily4": {
     "itemGrants": [
-      "AthenaCharacter:CID_024_Athena_Commando_F"
+      "AthenaCharacter:CID_027_Athena_Commando_F"
     ],
     "price": 1200
   },
   "daily5": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_035_Prismatic"
+      "AthenaPickaxe:HappyPickaxe"
     ],
-    "price": 1000
+    "price": 700
   },
   "daily6": {
     "itemGrants": [
-      "AthenaGlider:Glider_ID_026_ShuttleB"
+      "AthenaGlider:Glider_ID_021_Scavenger"
     ],
     "price": 800
   }
