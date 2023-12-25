@@ -2,56 +2,56 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_394_Athena_Commando_M_MoonlightAssassin","AthenaBackpack:BID_255_MoonlightAssassin"
+      "AthenaCharacter:CID_061_Athena_Commando_F_SkiGirl","AthenaBackpack:BID_014_SkiGirl"
     ],
     "price": 1500
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_395_Athena_Commando_F_ShatterFly","AthenaBackpack:BID_256_ShatterFly"
+      "AthenaCharacter:CID_068_Athena_Commando_F_SkiGirl_KOR","AthenaBackpack:BID_021_SkiGirl_KOR"
     ],
-    "price": 1200
+    "price": 1500
   },
   "featured3": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_200_MoonlightAssassin"
+      "AthenaCharacter:CID_065_Athena_Commando_F_SkiGirl_FRA","AthenaBackpack:BID_018_SkiGirl_FRA"
     ],
-    "price": 1200
+    "price": 1500
   },
   "daily1": {
     "itemGrants": [
-      "AthenaCharacter:CID_420_Athena_Commando_F_WhiteTiger","AthenaBackpack:BID_277_WhiteTiger"
+      "AthenaCharacter:CID_046_Athena_Commando_F_HolidaySweater"
     ],
-    "price": 1200
+    "price": 800
   },
   "daily2": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_092_Bling"
+      "AthenaPickaxe:Pickaxe_ID_022_HolidayGiftWrap"
     ],
-    "price": 800
+    "price": 500
   },
   "daily3": {
     "itemGrants": [
-      "AthenaDance:EID_ElectroShuffle"
+      "AthenaDance:EID_Bellringer"
     ],
-    "price": 600
+    "price": 300
   },
   "daily4": {
     "itemGrants": [
-      "AthenaCharacter:CID_027_Athena_Commando_F"
+      "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread","AthenaBackpack:BID_187_GingerbreadFemale"
     ],
-    "price": 1200
+    "price": 1500
   },
   "daily5": {
     "itemGrants": [
-      "AthenaPickaxe:HappyPickaxe"
+      "AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"
     ],
-    "price": 700
+    "price": 1200
   },
   "daily6": {
     "itemGrants": [
-      "AthenaGlider:Glider_ID_021_Scavenger"
+      "AthenaGlider:Glider_ID_005_HolidaySweater"
     ],
-    "price": 800
+    "price": 400
   }
 }
