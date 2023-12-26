@@ -2,21 +2,21 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_649_Athena_Commando_F_HolidayPJ"
+      "AthenaCharacter:CID_059_Athena_Commando_M_SkiDude_CHN","AthenaBackpack:BID_012_SkiDude_CHN"
     ],
-    "price": 800
+    "price": 1500
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_651_Athena_Commando_F_HolidayPJ_C"
+      "AthenaCharacter:CID_060_Athena_Commando_M_SkiDude_KOR","AthenaBackpack:BID_013_SkiDude_KOR"
     ],
-    "price": 800
+    "price": 1500
   },
   "featured3": {
     "itemGrants": [
-      "AthenaCharacter:CID_652_Athena_Commando_F_HolidayPJ_D"
+      "AthenaCharacter:CID_057_Athena_Commando_M_SkiDude_FRA","BID_010_SkiDude_FRA"
     ],
-    "price": 800
+    "price": 1500
   },
   "daily1": {
     "itemGrants": [
