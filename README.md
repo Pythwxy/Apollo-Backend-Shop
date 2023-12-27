@@ -44,7 +44,7 @@
   },
   "daily5": {
     "itemGrants": [
-      "AthenaPickaxe:HappyPickaxe"
+      "AthenaPickaxe:Pickaxe_ID_084_DurrburgerHero"
     ],
     "price": 500
   },
