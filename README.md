@@ -26,9 +26,9 @@
   },
   "daily2": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_202_AshtonBoardwalk"
+      "AthenaPickaxe:Pickaxe_ID_190_GolfClub"
     ],
-    "price": 1200
+    "price": 500
   },
   "daily3": {
     "itemGrants": [
