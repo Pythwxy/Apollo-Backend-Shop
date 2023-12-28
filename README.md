@@ -22,7 +22,7 @@
     "itemGrants": [
       "AthenaCharacter:CID_497_Athena_Commando_F_WildWest","AthenaBackpack:BID_329_WildWestFemale"
     ],
-    "price": 800
+    "price": 1200
   },
   "daily2": {
     "itemGrants": [
