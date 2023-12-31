@@ -2,55 +2,55 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_103_Athena_Commando_M_Bunny","AthenaBackpack:BID_037_BunnyMale"
+      "AthenaCharacter:CID_043_Athena_Commando_F_Stealth","AthenaBackpack:BID_312_Stealth"
     ],
     "price": 1500
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_104_Athena_Commando_F_Bunny","AthenaBackpack:BID_038_BunnyFemale"
+      "AthenaCharacter:CID_101_Athena_Commando_M_Stealth"
     ],
-    "price": 1500
+    "price": 1200
   },
   "featured3": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_038_Carrot"
+      "AthenaPickaxe:Pickaxe_ID_037_Stealth"
     ],
     "price": 800
   },
   "daily1": {
     "itemGrants": [
-      "AthenaCharacter:CID_452_Athena_Commando_F_CyberFu","AthenaBackpack:BID_292_CyberFuFemale"
+      "AthenaCharacter:CID_456_Athena_Commando_F_Sarong","AthenaBackpack:BID_296_Sarong"
     ],
     "price": 1200
   },
   "daily2": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_172_BandageNinja"
+      "AthenaPickaxe:HalloweenScythe"
     ],
-    "price": 500
+    "price": 800
   },
   "daily3": {
     "itemGrants": [
-      "AthenaGlider:Glider_ID_012_TeddyBear"
+      "AthenaDance:EID_PopLock"
     ],
     "price": 600
   },
   "daily4": {
     "itemGrants": [
-      "AthenaCharacter:CID_606_Athena_Commando_F_JetSki","AthenaBackpack:BID_403_JetSkiFemale"
+      "AthenaCharacter:CID_063_Athena_Commando_F_SkiGirl_CAN","AthenaBackpack:BID_016_SkiGirl_CAN"
     ],
-    "price": 1200
+    "price": 1500
   },
   "daily5": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_018_Anchor"
+      "AthenaPickaxe:Pickaxe_ID_014_WinterCamo"
     ],
-    "price": 1200
+    "price": 500
   },
   "daily6": {
     "itemGrants": [
-      "AthenaItemWrap:Wrap_078_SlurpJuice"
+      "AthenaItemWrap:Wrap_121_TechOpsBlue"
     ],
     "price": 600
   }
