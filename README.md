@@ -2,56 +2,56 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_372_Athena_Commando_F_Pirate01","AthenaBackpack:BID_236_Pirate01Female"
+      "AthenaCharacter:CID_093_Athena_Commando_M_Dinosaur","AthenaBackpack:BID_031_Dinosaur"
     ],
-    "price": 1200
+    "price": 2000
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_373_Athena_Commando_M_Pirate01","AthenaBackpack:BID_238_Pirate02Male"
+      "AthenaCharacter:CID_107_Athena_Commando_F_PajamaParty","AthenaBackpack:BID_041_PajamaParty"
     ],
-    "price": 1200
+    "price": 2000
   },
   "featured3": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_182_PirateWheel"
+      "AthenaPickaxe:Pickaxe_ID_041_PajamaParty"
     ],
-    "price": 800
+    "price": 1200
   },
   "daily1": {
     "itemGrants": [
-      "AthenaCharacter:CID_393_Athena_Commando_M_Shiny","AthenaBackpack:BID_254_ShinyMale"
+      "AthenaCharacter:CID_395_Athena_Commando_F_ShatterFly","AthenaBackpack:BID_256_ShatterFly"
     ],
-    "price": 1500
+    "price": 1200
   },
   "daily2": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_179_StarWand"
+      "AthenaPickaxe:Pickaxe_ID_140_StreetGoth"
     ],
     "price": 800
   },
   "daily3": {
     "itemGrants": [
-      "AthenaDance:EID_LazyShuffle"
+      "AthenaDance:EID_PopDance01"
     ],
-    "price": 300
+    "price": 600
   },
   "daily4": {
     "itemGrants": [
-      "AthenaCharacter:CID_397_Athena_Commando_F_TreasureHunterFashion"
+      "AthenaCharacter:CID_091_Athena_Commando_M_RedShirt"
     ],
-    "price": 800
+    "price": 1200
   },
   "daily5": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
+      "AthenaPickaxe:Pickaxe_ID_142_TeriyakiFish"
     ],
-    "price": 800
+    "price": 500
   },
   "daily6": {
     "itemGrants": [
-      "AthenaItemWrap:Wrap_018_Magma"
+      "AthenaGlider:Glider_ID_095_Witch"
     ],
-    "price": 600
+    "price": 800
   }
 }
