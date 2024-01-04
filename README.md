@@ -20,15 +20,15 @@
   },
   "daily1": {
     "itemGrants": [
-      "AthenaCharacter:CID_395_Athena_Commando_F_ShatterFly","AthenaBackpack:BID_256_ShatterFly"
+      "AthenaCharacter:CID_023_Athena_Commando_F"
     ],
     "price": 1200
   },
   "daily2": {
     "itemGrants": [
-      "AthenaPickaxe:HalloweenScythe"
+      "AthenaPickaxe:HappyPickaxe"
     ],
-    "price": 1000
+    "price": 500
   },
   "daily3": {
     "itemGrants": [
@@ -44,9 +44,9 @@
   },
   "daily5": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_179_StarWand"
+      "AthenaPickaxe:Pickaxe_Flamingo"
     ],
-    "price": 1000
+    "price": 1200
   },
   "daily6": {
     "itemGrants": [
