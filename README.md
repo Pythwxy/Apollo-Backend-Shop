@@ -2,56 +2,56 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_063_Athena_Commando_F_SkiGirl_CAN","AthenaBackpack:BID_016_SkiGirl_CAN"
+      "AthenaCharacter:CID_136_Athena_Commando_M_StreetBasketball"
     ],
-    "price": 1500
+    "price": 1200
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_067_Athena_Commando_F_SkiGirl_CHN","AthenaBackpack:BID_020_SkiGirl_CHN"
+      "AthenaCharacter:CID_137_Athena_Commando_F_StreetBasketball"
     ],
-    "price": 1500
+    "price": 1200
   },
   "featured3": {
     "itemGrants": [
-      "AthenaCharacter:CID_068_Athena_Commando_F_SkiGirl_KOR","AthenaBackpack:BID_021_SkiGirl_KOR"
+      "AthenaPickaxe:Pickaxe_ID_058_Basketball"
     ],
-    "price": 1500
+    "price": 800
   },
   "daily1": {
     "itemGrants": [
-      "AthenaCharacter:CID_026_Athena_Commando_M"
+      "AthenaCharacter:CID_027_Athena_Commando_F"
     ],
     "price": 1200
   },
   "daily2": {
     "itemGrants": [
-      "AthenaPickaxe:HalloweenScythe"
+      "AthenaPickaxe:HappyPickaxe"
     ],
-    "price": 800
+    "price": 500
   },
   "daily3": {
     "itemGrants": [
-      "AthenaDance:EID_HiLowWave"
+      "AthenaDance:EID_SwimDance"
     ],
-    "price": 600
+    "price": 300
   },
   "daily4": {
     "itemGrants": [
-      "AthenaItemWrap:Wrap_127_FragmentedGlow"
-    ],
-    "price": 400
-  },
-  "daily5": {
-    "itemGrants": [
-      "AthenaCharacter:CID_495_Athena_Commando_F_MechPilotShark"
+      "AthenaCharacter:CID_414_Athena_Commando_F_MilitaryFashion"
     ],
     "price": 800
   },
+  "daily5": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_190_GolfClub"
+    ],
+    "price": 500
+  },
   "daily6": {
     "itemGrants": [
-      "AthenaGlider:Glider_ID_095_Witch"
+      "AthenaGlider:Glider_ID_014_Dragon"
     ],
-    "price": 600
+    "price": 1200
   }
 }
