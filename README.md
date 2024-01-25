@@ -2,56 +2,56 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_193_Athena_Commando_F_Hippie","AthenaBackpack:BID_094_HippieFemale"
+      "AthenaCharacter:CID_269_Athena_Commando_M_Wizard","AthenaBackpack:BID_149_Wizard"
     ],
     "price": 1500
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_192_Athena_Commando_M_Hippie","AthenaBackpack:BID_093_HippieMale"
+      "AthenaCharacter:CID_270_Athena_Commando_F_Witch","AthenaBackpack:BID_150_Witch"
     ],
     "price": 1500
   },
   "featured3": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_087_Hippie"
+      "AthenaPickaxe:Pickaxe_ID_122_Witch"
     ],
-    "price": 500
+    "price": 800
   },
   "daily1": {
     "itemGrants": [
-      "AthenaCharacter:CID_023_Athena_Commando_F"
+      "AthenaCharacter:CID_271_Athena_Commando_F_SushiChef","AthenaBackpack:BID_151_SushiChefFemale"
     ],
     "price": 1200
   },
   "daily2": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_Flamingo"
+      "AthenaPickaxe:Pickaxe_ID_179_StarWand"
     ],
-    "price": 1200
+    "price": 800
   },
   "daily3": {
     "itemGrants": [
-      "AthenaDance:EID_Boneless"
+      "AthenaDance:EID_InfiniteDab"
     ],
     "price": 300
   },
   "daily4": {
     "itemGrants": [
-      "AthenaCharacter:CID_104_Athena_Commando_F_Bunny","AthenaBackpack:BID_038_BunnyFemale"
-    ],
-    "price": 1500
-  },
-  "daily5": {
-    "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_140_StreetGoth"
+      "AthenaCharacter:CID_331_Athena_Commando_M_Taxi"
     ],
     "price": 800
   },
+  "daily5": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_018_Anchor"
+    ],
+    "price": 1200
+  },
   "daily6": {
     "itemGrants": [
-      "AthenaGlider:Glider_ID_097_Feathers"
+      "AthenaItemWrap:Wrap_098_Birthday2019"
     ],
-    "price": 600
+    "price": 200
   }
 }
