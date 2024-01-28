@@ -2,55 +2,55 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_437_Athena_Commando_F_AztecEclipse","AthenaBackpack:BID_287_AztecFemaleEclipse"
+      "AthenaCharacter:CID_177_Athena_Commando_M_StreetRacerCobra","AthenaBackpack:BID_080_StreetRacerCobraMale"
     ],
     "price": 1500
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_438_Athena_Commando_M_WinterGhoulEclipse","AthenaBackpack:BID_286_WinterGhoulMaleEclipse"
+      "AthenaCharacter:CID_178_Athena_Commando_F_StreetRacerCobra","AthenaBackpack:BID_078_StreetRacerCobraFemale"
     ],
     "price": 1500
   },
   "featured3": {
     "itemGrants": [
-      "AthenaCharacter:CID_439_Athena_Commando_F_SkullBriteEclipse","AthenaBackpack:BID_285_SkullBriteEclipse"
+      "AthenaPickaxe:Pickaxe_ID_081_StreetRacerCobra"
     ],
-    "price": 1500
+    "price": 800
   },
   "daily1": {
     "itemGrants": [
-      "AthenaCharacter:CID_480_Athena_Commando_F_Bubblegum","AthenaBackpack:BID_313_Bubblegum"
+      "AthenaCharacter:CID_335_Athena_Commando_F_Scrapyard","AthenaBackpack:BID_206_ScrapyardFemale"
     ],
     "price": 1200
   },
   "daily2": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_138_Gnome"
+      "AthenaPickaxe:Pickaxe_ID_154_Squishy"
     ],
     "price": 800
   },
   "daily3": {
     "itemGrants": [
-      "AthenaDance:EID_Chicken"
+      "AthenaDance:EID_Bunnyhop"
     ],
     "price": 300
   },
   "daily4": {
     "itemGrants": [
-      "AthenaCharacter:CID_493_Athena_Commando_F_JurassicArchaeology"
+      "AthenaCharacter:CID_242_Athena_Commando_F_Bullseye"
     ],
     "price": 800
   },
   "daily5": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_172_BandageNinja"
+      "AthenaPickaxe:Pickaxe_ID_190_GolfClub"
     ],
     "price": 500
   },
   "daily6": {
     "itemGrants": [
-      "AthenaDance:EID_TPose"
+      "AthenaDance:Pickaxe_ID_190_GolfClub"
     ],
     "price": 200
   }
