@@ -2,56 +2,56 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_136_Athena_Commando_M_StreetBasketball"
+      "AthenaCharacter:CID_214_Athena_Commando_F_FootballReferee"
     ],
-    "price": 1200
+    "price": 800
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_137_Athena_Commando_F_StreetBasketball"
+      "AthenaCharacter:CID_215_Athena_Commando_M_FootballReferee"
     ],
-    "price": 1200
+    "price": 800
   },
   "featured3": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_058_Basketball"
+      "AthenaPickaxe:Pickaxe_ID_094_Football"
     ],
     "price": 800
   },
   "daily1": {
     "itemGrants": [
-      "AthenaCharacter:CID_027_Athena_Commando_F"
+      "AthenaPickaxe:Pickaxe_ID_095_FootballTrophy"
     ],
-    "price": 1200
+    "price": 500
   },
   "daily2": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_014_WinterCamo"
+      "AthenaItemWrap:Wrap_018_Magma"
     ],
-    "price": 600
+    "price": 700
   },
   "daily3": {
     "itemGrants": [
-      "AthenaDance:EID_SwimDance"
+      "AthenaDance:EID_GuitarWalk"
     ],
-    "price": 300
+    "price": 500
   },
   "daily4": {
     "itemGrants": [
-      "AthenaCharacter:CID_414_Athena_Commando_F_MilitaryFashion"
+      "AthenaCharacter:CID_297_Athena_Commando_F_Math", "AthenaBackpack:BID_170_MathFemale"
     ],
-    "price": 800
+    "price": 1200
   },
   "daily5": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_190_GolfClub"
+      "AthenaDance:EID_TimeOut"
     ],
-    "price": 600
+    "price": 200
   },
   "daily6": {
     "itemGrants": [
-      "AthenaGlider:Glider_ID_095_Witch"
+      "AthenaGlider:Glider_ID_071_Football"
     ],
-    "price": 800
+    "price": 500
   }
 }
