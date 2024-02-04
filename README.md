@@ -2,7 +2,7 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_270_Jumpstart"
+      "AthenaPickaxe:Pickaxe_ID_270_Jumpstart", "BID_355_Jumpstart"
     ],
     "price": 800
   },
