@@ -2,55 +2,55 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_214_Athena_Commando_F_FootballReferee"
+      "AthenaPickaxe:Pickaxe_ID_270_Jumpstart"
     ],
     "price": 800
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_215_Athena_Commando_M_FootballReferee"
+      "AthenaCharacter:CID_537_Athena_Commando_M_Jumpstart"
     ],
-    "price": 800
+    "price": 1500
   },
   "featured3": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_094_Football"
+      "AthenaCharacter:CID_130_Athena_Commando_M_Merman"
     ],
-    "price": 800
+    "price": 2000
   },
   "daily1": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_095_FootballTrophy"
+      "AthenaCharacter:CID_193_Athena_Commando_F_Hippie"
     ],
-    "price": 500
+    "price": 1500
   },
   "daily2": {
     "itemGrants": [
-      "AthenaItemWrap:Wrap_018_Magma"
+      "AthenaCharacter:CID_011_Athena_Commando_M"
     ],
-    "price": 700
+    "price": 800
   },
   "daily3": {
     "itemGrants": [
-      "AthenaDance:EID_GuitarWalk"
+      "AthenaDance:EID_OG_RunningMan"
     ],
     "price": 500
   },
   "daily4": {
     "itemGrants": [
-      "AthenaCharacter:CID_297_Athena_Commando_F_Math", "AthenaBackpack:BID_170_MathFemale"
+      "AthenaPickaxe:Pickaxe_ID_091_Hacivat"
     ],
-    "price": 1200
+    "price": 800
   },
   "daily5": {
     "itemGrants": [
-      "AthenaDance:EID_TimeOut"
+      "AthenaDance:EID_Pizzatime"
     ],
     "price": 200
   },
   "daily6": {
     "itemGrants": [
-      "AthenaGlider:Glider_ID_071_Football"
+      "AthenaDance:EID_TapShuffle"
     ],
     "price": 500
   }
