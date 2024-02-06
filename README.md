@@ -1,57 +1,57 @@
 {
-  "//": "BR Item Shop Config",
-  "featured1": {
-    "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_270_Jumpstart", "BID_355_Jumpstart"
-    ],
-    "price": 800
-  },
-  "featured2": {
-    "itemGrants": [
-      "AthenaCharacter:CID_537_Athena_Commando_M_Jumpstart"
-    ],
-    "price": 1500
-  },
-  "featured3": {
-    "itemGrants": [
-      "AthenaCharacter:CID_130_Athena_Commando_M_Merman"
-    ],
-    "price": 2000
-  },
-  "daily1": {
-    "itemGrants": [
-      "AthenaCharacter:CID_193_Athena_Commando_F_Hippie"
-    ],
-    "price": 1500
-  },
-  "daily2": {
-    "itemGrants": [
-      "AthenaCharacter:CID_011_Athena_Commando_M"
-    ],
-    "price": 800
-  },
-  "daily3": {
-    "itemGrants": [
-      "AthenaDance:EID_OG_RunningMan"
-    ],
-    "price": 500
-  },
-  "daily4": {
-    "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_091_Hacivat"
-    ],
-    "price": 800
-  },
-  "daily5": {
-    "itemGrants": [
-      "AthenaDance:EID_Pizzatime"
-    ],
-    "price": 200
-  },
-  "daily6": {
-    "itemGrants": [
-      "AthenaDance:EID_TapShuffle"
-    ],
-    "price": 500
-  }
+    "//": "BR Item Shop Config",
+    "featured1": {
+        "itemGrants": [
+            "AthenaCharacter:CID_269_Athena_Commando_M_Wizard","AthenaBackpack:BID_149_Wizard"
+        ],
+        "price": 1500
+    },
+    "featured2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_270_Athena_Commando_F_Witch","AthenaBackpack:BID_150_Witch"
+        ],
+        "price": 1500
+    },
+    "featured3": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_122_Witch"
+        ],
+        "price": 800
+    },
+    "daily1": {
+        "itemGrants": [
+            "AthenaCharacter:CID_271_Athena_Commando_F_SushiChef"
+        ],
+        "price": 1500
+    },
+    "daily2": {
+        "itemGrants": [
+            "AthenaGlider:Glider_Stealth"
+        ],
+        "price": 600
+    },
+    "daily3": {
+        "itemGrants": [
+            "AthenaMusicPack:MusicPack_006_Twist"
+        ],
+        "price": 300
+    },
+    "daily4": {
+        "itemGrants": [
+            "AthenaItemWrap:Wrap_012_DragonMask"
+        ],
+        "price": 600
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaDance:EID_Mime"
+        ],
+        "price": 500
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
+        ],
+        "price": 800
+    }
 }
