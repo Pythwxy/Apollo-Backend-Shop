@@ -1,57 +1,57 @@
 {
-    "//": "BR Item Shop Config",
-    "featured1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_269_Athena_Commando_M_Wizard","AthenaBackpack:BID_149_Wizard"
-        ],
-        "price": 1500
-    },
-    "featured2": {
-        "itemGrants": [
-            "AthenaCharacter:CID_270_Athena_Commando_F_Witch","AthenaBackpack:BID_150_Witch"
-        ],
-        "price": 1500
-    },
-    "featured3": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_122_Witch"
-        ],
-        "price": 800
-    },
-    "daily1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_271_Athena_Commando_F_SushiChef"
-        ],
-        "price": 1500
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaGlider:Glider_Stealth"
-        ],
-        "price": 600
-    },
-    "daily3": {
-        "itemGrants": [
-            "AthenaMusicPack:MusicPack_006_Twist"
-        ],
-        "price": 300
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaItemWrap:Wrap_012_DragonMask"
-        ],
-        "price": 600
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaDance:EID_Mime"
-        ],
-        "price": 500
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
-        ],
-        "price": 800
-    }
+  "//": "BR Item Shop Config",
+  "featured1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_046_Athena_Commando_F_HolidaySweater"
+    ],
+    "price": 800
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_045_Athena_Commando_M_HolidaySweater"
+    ],
+    "price": 800
+  },
+  "featured3": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"
+    ],
+    "price": 1200
+  },
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_311_Athena_Commando_M_Reindeer"
+    ],
+    "price": 800
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_138_Gnome"
+    ],
+    "price": 800
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaDance:EID_BuildASnowman"
+    ],
+    "price": 300
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread","AthenaBackpack:BID_187_GingerbreadFemale"
+    ],
+    "price": 1500
+  },
+  "daily5": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_134_Snowman"
+    ],
+    "price": 500
+  },
+  "daily6": {
+    "itemGrants": [
+      "AthenaItemWrap:Wrap_007_CandyCane"
+    ],
+    "price": 300
+  }
 }
