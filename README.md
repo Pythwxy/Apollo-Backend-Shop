@@ -2,56 +2,56 @@
   "//": "BR Item Shop Config",
   "featured1": {
     "itemGrants": [
-      "AthenaCharacter:CID_046_Athena_Commando_F_HolidaySweater"
+      "AthenaCharacter:CID_217_Athena_Commando_M_Medic","AthenaBackpack:BID_109_MedicMale"
     ],
-    "price": 800
+    "price": 1500
   },
   "featured2": {
     "itemGrants": [
-      "AthenaCharacter:CID_045_Athena_Commando_M_HolidaySweater"
+      "AthenaCharacter:CID_216_Athena_Commando_F_Medic","AthenaBackpack:BID_110_MedicFemale"
     ],
-    "price": 800
+    "price": 1500
   },
   "featured3": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"
-    ],
-    "price": 1200
-  },
-  "daily1": {
-    "itemGrants": [
-      "AthenaCharacter:CID_311_Athena_Commando_M_Reindeer"
+      "AthenaPickaxe:Pickaxe_ID_093_Medic"
     ],
     "price": 800
   },
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_328_Athena_Commando_F_Tennis","AthenaBackpack:BID_204_TennisFemale"
+    ],
+    "price": 1200
+  },
   "daily2": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_138_Gnome"
+      "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
     ],
     "price": 800
   },
   "daily3": {
     "itemGrants": [
-      "AthenaDance:EID_BuildASnowman"
+      "AthenaDance:EID_Fresh"
     ],
-    "price": 300
+    "price": 600
   },
   "daily4": {
     "itemGrants": [
-      "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread","AthenaBackpack:BID_187_GingerbreadFemale"
+      "AthenaCharacter:CID_016_Athena_Commando_F"
     ],
-    "price": 1500
+    "price": 800
   },
   "daily5": {
     "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_134_Snowman"
+      "AthenaPickaxe:Pickaxe_ID_140_StreetGoth"
     ],
-    "price": 500
+    "price": 800
   },
   "daily6": {
     "itemGrants": [
-      "AthenaItemWrap:Wrap_007_CandyCane"
+      "AthenaDance:EID_Flex"
     ],
-    "price": 300
+    "price": 200
   }
 }
