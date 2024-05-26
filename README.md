@@ -12,12 +12,6 @@
     ],
     "price": 1500
   },
-  "featured3": {
-    "itemGrants": [
-      "AthenaPickaxe:Pickaxe_ID_093_Medic"
-    ],
-    "price": 800
-  },
   "daily1": {
     "itemGrants": [
       "AthenaCharacter:CID_328_Athena_Commando_F_Tennis","AthenaBackpack:BID_204_TennisFemale"
